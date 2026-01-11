@@ -15,7 +15,7 @@ https://www.loom.com/share/7d8cf1dbadc4425d921f3d3490e7d166
 ---
 ## 🎥 Demo Video
 
-[![Claude Code Skill Demo](assets/claude-ffmpeg-demo.jpg)](https://www.loom.com/share/7d8cf1dbadc4425d921f3d3490e7d166)
+[![Claude Code Skill Demo](../assets/claude-ffmpeg-demo.jpg)](https://www.loom.com/share/7d8cf1dbadc4425d921f3d3490e7d166)
 
 _Click the image to watch the Loom demo._
 
