@@ -6,6 +6,15 @@ Automate video resolution conversion from 1080p to lower resolutions (720p, 480p
 
 ---
 
+## 🎥 Demo Video
+
+**Building a Custom Claude Code Skill: Automated Video Downscaling with FFmpeg (Python)**  
+▶️ Watch the demo:  
+https://www.loom.com/share/7d8cf1dbadc4425d921f3d3490e7d166
+
+---
+
+
 ## What It Does
 
 ✓ **Scales single videos** with one command  
